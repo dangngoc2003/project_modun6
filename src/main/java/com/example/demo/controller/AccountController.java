@@ -1,6 +1,6 @@
 package com.example.demo.controller;
 
-import com.example.demo.account.Account;
+import com.example.demo.model.account.Account;
 import com.example.demo.service.ICrudAccount;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;

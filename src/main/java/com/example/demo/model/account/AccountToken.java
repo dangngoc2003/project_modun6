@@ -1,4 +1,4 @@
-package com.example.demo.account;//package manager.model.account;
+package com.example.demo.model.account;//package manager.model.account;
 //
 //import lombok.AllArgsConstructor;
 //import lombok.Data;
